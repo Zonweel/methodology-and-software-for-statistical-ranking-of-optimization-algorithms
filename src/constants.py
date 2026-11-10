@@ -1,0 +1,5 @@
+COL_ALGO = "algorithm"
+COL_RUN = "run_id"
+COL_METRIC = "metric_value"
+COL_TIME = "time_ms"
+COL_RANK = "rank"
